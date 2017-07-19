@@ -3,7 +3,7 @@ Mimicking service counter operation. Customers arrive at a given time, fixed ser
 
 Counter operation is managed using a queue implemented as a linkedList. 
 
-Output includes time spent waiting per customer, longest break by worker, and total break time. 
+System takes .txt file of customers and queries, outputs answers to queries. 
 
 ## Learning Objectives
 
